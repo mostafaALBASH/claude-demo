@@ -22,6 +22,7 @@ This project is built and extended throughout the **Claude Code in Action** cour
 | Introduction to Cognitive Skills | 0% | 2.3 hrs |
 | Claude 101 | 0% | 2.0 hrs |
 | MCP: Advanced Topics | 0% | 3.0 hrs |
+| Introduction to agent skills | 100% | 0.5 hrs |
 
 ---
 
