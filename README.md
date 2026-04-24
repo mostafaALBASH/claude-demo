@@ -17,7 +17,7 @@ This project is built and extended throughout the **Claude Code in Action** cour
 | :--- | :--- | :--- |
 | Introduction to Sub-Agents | 100% | 1.0 hr |
 | Claude Code in Action | 100% | 2.0 hrs |
-| Building with the Claude API | 60% | 8.1 hrs |
+| Building with the Claude API | 70% | 8.1 hrs |
 | Introduction to Model Context Protocol (MCP) | 0% | 2.5 hrs |
 | Introduction to Cognitive Skills | 0% | 2.3 hrs |
 | Claude 101 | 0% | 2.0 hrs |
